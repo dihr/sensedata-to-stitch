@@ -1,7 +1,7 @@
 import logging
 import time
 
-from sensedata import SensedataAPI
+from sensedata_api import SensedataAPI
 from stitch_api import StitchApi
 
 logger = logging.getLogger(__name__)

@@ -4,7 +4,7 @@ from unittest.mock import Mock
 import pytest
 from requests import HTTPError
 
-from sensedata import SensedataAPI
+from sensedata_api import SensedataAPI
 
 
 class TestSensedataAPI:
